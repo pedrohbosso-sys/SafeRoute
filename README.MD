@@ -1,8 +1,8 @@
-# 🗺️ SafeRoute — Navegação Inteligente e Colaborativa
+#  SafeRoute — Navegação Inteligente e Colaborativa
 
 > Aplicativo de navegação que busca melhorar a mobilidade urbana por meio da identificação colaborativa de alagamentos, enchentes, obras e interdições, oferecendo rotas alternativas aos motoristas.
 
-## 📌 1. Sobre o Projeto
+##  1. Sobre o Projeto
 
 O **SafeRoute** é uma proposta de aplicativo de navegação para Android e iOS, inspirado em plataformas como Waze e Google Maps, mas com foco especial na identificação de problemas nas vias públicas.
 
@@ -15,7 +15,7 @@ Inicialmente, o projeto terá como região de atuação os municípios de:
 - Nova Odessa – SP;
 - Sumaré – SP.
 
-## 🚨 2. Identificação do Problema
+## 2. Identificação do Problema
 
 Motoristas frequentemente enfrentam dificuldades durante seus deslocamentos devido a situações inesperadas, como:
 
@@ -29,7 +29,7 @@ Muitas vezes, os motoristas descobrem esses problemas somente quando chegam ao l
 
 **Problema identificado:** a dificuldade de encontrar rotas alternativas diante de alagamentos, enchentes e interdições, especialmente em regiões onde essas ocorrências são frequentes.
 
-## 💡 3. Justificativa
+##  3. Justificativa
 
 O desenvolvimento do SafeRoute justifica-se pela necessidade de melhorar a mobilidade urbana e proporcionar maior segurança aos motoristas.
 
@@ -37,7 +37,7 @@ A proposta utiliza a colaboração entre usuários para compartilhar informaçõ
 
 Com essas informações, o aplicativo poderá identificar trechos comprometidos e oferecer caminhos alternativos, contribuindo para deslocamentos mais seguros e eficientes.
 
-## 🎯 4. Objetivos
+##  4. Objetivos
 
 ### Objetivo Geral
 
@@ -52,7 +52,7 @@ Desenvolver um aplicativo de navegação colaborativa capaz de identificar probl
 - Calcular rotas alternativas;
 - Melhorar a experiência e a segurança dos deslocamentos.
 
-## 👥 5. Público-Alvo
+##  5. Público-Alvo
 
 O aplicativo será destinado principalmente a:
 
@@ -61,7 +61,7 @@ O aplicativo será destinado principalmente a:
 - Trabalhadores que utilizam veículos diariamente;
 - Pessoas que circulam frequentemente pelas cidades atendidas.
 
-## 🔎 6. Pesquisa Regional
+##  6. Pesquisa Regional
 
 O levantamento inicial identificou regiões que apresentam registros ou relatos de problemas relacionados a alagamentos e enchentes.
 
@@ -94,7 +94,7 @@ O levantamento inicial identificou regiões que apresentam registros ou relatos 
 
 **Observação:** os locais representam um levantamento preliminar. A confirmação dos pontos, trechos e coordenadas deverá ocorrer durante a pesquisa. O cadastro operacional do aplicativo será alimentado exclusivamente pelos usuários.
 
-## 🏁 7. Pesquisa de Concorrentes
+##  7. Pesquisa de Concorrentes
 
 Foram considerados aplicativos de navegação já utilizados no mercado.
 
@@ -121,7 +121,7 @@ O funcionamento principal será dividido em quatro etapas:
 
 As ocorrências deverão conter localização, categoria, horário e prazo de validade, evitando que informações antigas continuem interferindo nas rotas.
 
-## 📱 9. Funcionalidades do Sistema
+##  9. Funcionalidades do Sistema
 
 ### Requisitos Funcionais
 
@@ -163,7 +163,7 @@ As ocorrências deverão conter localização, categoria, horário e prazo de va
 | RNF09  | Tolerância a falhas de conexão.                |
 | RNF10  | Segurança na utilização do aplicativo.         |
 
-## 📏 10. Regras de Negócio
+##  10. Regras de Negócio
 
 - RN01: somente usuários autenticados poderão publicar ocorrências.
 - RN02: toda ocorrência deverá possuir categoria e localização.
@@ -176,7 +176,7 @@ As ocorrências deverão conter localização, categoria, horário e prazo de va
 - RN09: o sistema deverá priorizar a segurança do motorista durante a navegação.
 - RN10: a localização deverá ser utilizada conforme as permissões concedidas pelo usuário.
 
-## 🛠️ 11. Tecnologias Propostas
+##  11. Tecnologias Propostas
 
 As tecnologias abaixo são sugestões iniciais e poderão ser ajustadas durante o desenvolvimento.
 
@@ -189,7 +189,7 @@ As tecnologias abaixo são sugestões iniciais e poderão ser ajustadas durante 
 | Mapbox ou Google Maps | Exibição de mapas.               |
 | GPS                   | Identificação da localização.    |
 
-## 🖥️ 12. Wireframes e Prototipagem
+##  12. Wireframes e Prototipagem
 
 A primeira versão do protótipo deverá apresentar as seguintes telas:
 
@@ -233,7 +233,7 @@ A primeira versão do protótipo deverá apresentar as seguintes telas:
 
 **Ferramenta sugerida para prototipagem:** Figma.
 
-## 🏗️ 13. Escopo do Projeto
+##  13. Escopo do Projeto
 
 ### Primeira Versão (MVP)
 
@@ -255,7 +255,7 @@ A primeira versão do protótipo deverá apresentar as seguintes telas:
 - Análise de padrões de alagamentos;
 - Expansão para outras regiões.
 
-## ⚠️ 14. Riscos e Desafios
+##  14. Riscos e Desafios
 
 | Desafio              | Possível solução                            |
 | -------------------- | ------------------------------------------- |
@@ -266,7 +266,7 @@ A primeira versão do protótipo deverá apresentar as seguintes telas:
 | Rotas incorretas     | Integração com serviço de roteamento.       |
 | Segurança ao dirigir | Alertas por áudio e interface simplificada. |
 
-## 📅 15. Planejamento — Semana 1
+##  15. Planejamento — Semana 1
 
 **Objetivo:** identificar um problema e definir os requisitos iniciais do projeto.
 
@@ -279,7 +279,7 @@ A primeira versão do protótipo deverá apresentar as seguintes telas:
 | Dia 5 | Organização e revisão da documentação.               | Entrega final.        |
 
 
-## 📚 16. Referências
+##  16. Referências
 
 - Prefeitura de Americana — Plano de Drenagem.
 - Prefeitura de Nova Odessa — Informações sobre monitoramento de áreas sujeitas a alagamentos.
@@ -290,7 +290,7 @@ A primeira versão do protótipo deverá apresentar as seguintes telas:
 
 ---
 
-## 🚀 17. Considerações Finais
+##  17. Considerações Finais
 
 O SafeRoute busca desenvolver uma solução tecnológica voltada a um problema real de mobilidade urbana.
 
