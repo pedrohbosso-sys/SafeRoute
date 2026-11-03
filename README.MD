@@ -217,7 +217,7 @@ A primeira versão do protótipo deverá apresentar as seguintes telas:
 - Botão para iniciar navegação.
 
 ### 12.4 Tela de Ocorrências
-
+ 
 - Alagamentos;
 - Enchentes;
 - Obras;
