@@ -110,7 +110,7 @@ O SafeRoute pretende priorizar ocorrências relacionadas a alagamentos, enchente
 
 O objetivo não é reproduzir todas as funcionalidades dos concorrentes, mas oferecer uma experiência direcionada à prevenção de problemas durante os deslocamentos.
 
-## ⚙️ 8. Funcionamento da Aplicação
+##  8. Funcionamento da Aplicação
 
 O funcionamento principal será dividido em quatro etapas:
 
