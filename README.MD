@@ -231,7 +231,11 @@ A primeira versão do protótipo deverá apresentar as seguintes telas:
 - Campo para descrição;
 - Opção de enviar o registro.
 
-**Ferramenta sugerida para prototipagem:** Figma.
+### 12.6 Protótipos de wireframe:
+
+- https://stitch.google.com/projects/969862646073581713
+
+**Ferramenta sugerida para prototipagem:** Stitch.
 
 ##  13. Escopo do Projeto
 
