@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>O SafeRoute usa sua localização para mostrar ocorrências e buscar rotas próximas.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>O SafeRoute usa a câmera para registrar evidências de ocorrências.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>O SafeRoute permite selecionar uma foto para ilustrar ocorrências.</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
